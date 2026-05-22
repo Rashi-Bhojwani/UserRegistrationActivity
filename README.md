@@ -14,8 +14,7 @@ A simple Android application that demonstrates a User Registration Form using Ja
 
 ## 🖼️ Output Screenshots
 
-![Output](image/1.png)
-
+![Output](image/1.jpeg)
 
 ## 👩‍💻 Submitted by
 
