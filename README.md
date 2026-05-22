@@ -18,5 +18,5 @@ A simple Android application that demonstrates a User Registration Form using Ja
 
 ## 👩‍💻 Submitted by
 
-**Srashti Shakya**  
+**Rashi bhojwani**  
 BCA 2nd Year
